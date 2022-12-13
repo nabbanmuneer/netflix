@@ -18,7 +18,7 @@ action ='https://api.themoviedb.org/3/discover/movie?api_key={API_KEY_HERE}&with
 
 originals ='https://api.themoviedb.org/3/discover/tv?api_key={API_KEY_HERE}&with_networks=213'
 
-ComedyMovies: 'https://api.themoviedb.org/3/discover/movie?api_key=${API_KEY_HERE}&with_genres=35',
+ComedyMovies: 'https://api.themoviedb.o rg/3/discover/movie?api_key=${API_KEY_HERE}&with_genres=35',
 
 HorrorMovies: 'https://api.themoviedb.org/3/discover/movie?api_key=${API_KEY_HERE}&with_genres=27',
 
@@ -30,4 +30,4 @@ Documentaries: 'https://api.themoviedb.org/3/discover/movie?api_key=${API_KEY_HE
 
 ////////////////////////////////////////////////////////////////////API KEY////////////////////////////////////////////////////////////////////////////
 
-API_KEY = "YOUR API KEY"
+API_KEY = "de708849aeaabce8c283143005834849"
